@@ -1,4 +1,4 @@
-# HorseRidingBoard
+# Horse Riding Board
 <img src="http://o7gy5l0ax.bkt.clouddn.com/horse.png" width = "48" height = "48" alt="FileView"/>
 
 ## Summary
