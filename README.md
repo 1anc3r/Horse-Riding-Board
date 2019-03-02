@@ -1,5 +1,5 @@
 # Horse Riding Board
-<img src="http://o7gy5l0ax.bkt.clouddn.com/horse.png" width = "96" height = "96" alt="FileView"/>
+<img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/horse.png?raw=true" width = "96" height = "96" alt="FileView"/>
 
 ## Summary
 This is a Java program using the greedy algorithm to achieve the horse riding board. 
